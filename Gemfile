@@ -56,6 +56,10 @@ gem 'devise'
 gem 'omniauth-google-apps'
 
 
+# twitter API gem
+gem 'twitter'
+
+
 #what does group :asset do?
 
 
